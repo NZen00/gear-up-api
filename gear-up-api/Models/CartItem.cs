@@ -11,7 +11,7 @@ namespace gear_up_api.Models
         [Required]
         [ForeignKey("Cart")]
         public int CartId { get; set; }
-        public Cart? Cart { get; set; }
+        public Cart Cart { get; set; }
 
         [Required]
         [ForeignKey("Product")]
