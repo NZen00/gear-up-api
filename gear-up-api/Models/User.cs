@@ -22,7 +22,7 @@ namespace gear_up_api.Models
 
         public string PasswordHash { get; set; }
 
-        public ICollection<Cart> Carts { get; set; }
+        public ICollection<Cart?> Carts { get; set; }
 
     }
 }
