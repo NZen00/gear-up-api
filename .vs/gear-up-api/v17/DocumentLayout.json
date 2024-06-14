@@ -3,56 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\User\\WebstormProjects\\Finap GearUp\\gear-up-api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AE52EA3B-3CB7-4912-BE17-19D8F70507B2}|gear-up-api\\gear-up-api.csproj|c:\\users\\user\\webstormprojects\\finap gearup\\gear-up-api\\gear-up-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{AE52EA3B-3CB7-4912-BE17-19D8F70507B2}|gear-up-api\\gear-up-api.csproj|solutionrelative:gear-up-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{AE52EA3B-3CB7-4912-BE17-19D8F70507B2}|gear-up-api\\gear-up-api.csproj|c:\\users\\user\\webstormprojects\\finap gearup\\gear-up-api\\gear-up-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE52EA3B-3CB7-4912-BE17-19D8F70507B2}|gear-up-api\\gear-up-api.csproj|solutionrelative:gear-up-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE52EA3B-3CB7-4912-BE17-19D8F70507B2}|gear-up-api\\gear-up-api.csproj|c:\\users\\user\\webstormprojects\\finap gearup\\gear-up-api\\gear-up-api\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE52EA3B-3CB7-4912-BE17-19D8F70507B2}|gear-up-api\\gear-up-api.csproj|solutionrelative:gear-up-api\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE52EA3B-3CB7-4912-BE17-19D8F70507B2}|gear-up-api\\gear-up-api.csproj|c:\\users\\user\\webstormprojects\\finap gearup\\gear-up-api\\gear-up-api\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE52EA3B-3CB7-4912-BE17-19D8F70507B2}|gear-up-api\\gear-up-api.csproj|solutionrelative:gear-up-api\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE52EA3B-3CB7-4912-BE17-19D8F70507B2}|gear-up-api\\gear-up-api.csproj|c:\\users\\user\\webstormprojects\\finap gearup\\gear-up-api\\gear-up-api\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE52EA3B-3CB7-4912-BE17-19D8F70507B2}|gear-up-api\\gear-up-api.csproj|solutionrelative:gear-up-api\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE52EA3B-3CB7-4912-BE17-19D8F70507B2}|gear-up-api\\gear-up-api.csproj|c:\\users\\user\\webstormprojects\\finap gearup\\gear-up-api\\gear-up-api\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE52EA3B-3CB7-4912-BE17-19D8F70507B2}|gear-up-api\\gear-up-api.csproj|solutionrelative:gear-up-api\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE52EA3B-3CB7-4912-BE17-19D8F70507B2}|gear-up-api\\gear-up-api.csproj|c:\\users\\user\\webstormprojects\\finap gearup\\gear-up-api\\gear-up-api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE52EA3B-3CB7-4912-BE17-19D8F70507B2}|gear-up-api\\gear-up-api.csproj|solutionrelative:gear-up-api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AE52EA3B-3CB7-4912-BE17-19D8F70507B2}|gear-up-api\\gear-up-api.csproj|c:\\users\\user\\webstormprojects\\finap gearup\\gear-up-api\\gear-up-api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE52EA3B-3CB7-4912-BE17-19D8F70507B2}|gear-up-api\\gear-up-api.csproj|solutionrelative:gear-up-api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE52EA3B-3CB7-4912-BE17-19D8F70507B2}|gear-up-api\\gear-up-api.csproj|c:\\users\\user\\webstormprojects\\finap gearup\\gear-up-api\\gear-up-api\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE52EA3B-3CB7-4912-BE17-19D8F70507B2}|gear-up-api\\gear-up-api.csproj|solutionrelative:gear-up-api\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE52EA3B-3CB7-4912-BE17-19D8F70507B2}|gear-up-api\\gear-up-api.csproj|c:\\users\\user\\webstormprojects\\finap gearup\\gear-up-api\\gear-up-api\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE52EA3B-3CB7-4912-BE17-19D8F70507B2}|gear-up-api\\gear-up-api.csproj|solutionrelative:gear-up-api\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE52EA3B-3CB7-4912-BE17-19D8F70507B2}|gear-up-api\\gear-up-api.csproj|c:\\users\\user\\webstormprojects\\finap gearup\\gear-up-api\\gear-up-api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE52EA3B-3CB7-4912-BE17-19D8F70507B2}|gear-up-api\\gear-up-api.csproj|solutionrelative:gear-up-api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE52EA3B-3CB7-4912-BE17-19D8F70507B2}|gear-up-api\\gear-up-api.csproj|c:\\users\\user\\webstormprojects\\finap gearup\\gear-up-api\\gear-up-api\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE52EA3B-3CB7-4912-BE17-19D8F70507B2}|gear-up-api\\gear-up-api.csproj|solutionrelative:gear-up-api\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AE52EA3B-3CB7-4912-BE17-19D8F70507B2}|gear-up-api\\gear-up-api.csproj|c:\\users\\user\\webstormprojects\\finap gearup\\gear-up-api\\gear-up-api\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE52EA3B-3CB7-4912-BE17-19D8F70507B2}|gear-up-api\\gear-up-api.csproj|solutionrelative:gear-up-api\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE52EA3B-3CB7-4912-BE17-19D8F70507B2}|gear-up-api\\gear-up-api.csproj|c:\\users\\user\\webstormprojects\\finap gearup\\gear-up-api\\gear-up-api\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE52EA3B-3CB7-4912-BE17-19D8F70507B2}|gear-up-api\\gear-up-api.csproj|solutionrelative:gear-up-api\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AE52EA3B-3CB7-4912-BE17-19D8F70507B2}|gear-up-api\\gear-up-api.csproj|c:\\users\\user\\webstormprojects\\finap gearup\\gear-up-api\\gear-up-api\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE52EA3B-3CB7-4912-BE17-19D8F70507B2}|gear-up-api\\gear-up-api.csproj|solutionrelative:gear-up-api\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE52EA3B-3CB7-4912-BE17-19D8F70507B2}|gear-up-api\\gear-up-api.csproj|c:\\users\\user\\webstormprojects\\finap gearup\\gear-up-api\\gear-up-api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE52EA3B-3CB7-4912-BE17-19D8F70507B2}|gear-up-api\\gear-up-api.csproj|solutionrelative:gear-up-api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AE52EA3B-3CB7-4912-BE17-19D8F70507B2}|gear-up-api\\gear-up-api.csproj|c:\\users\\user\\webstormprojects\\finap gearup\\gear-up-api\\gear-up-api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE52EA3B-3CB7-4912-BE17-19D8F70507B2}|gear-up-api\\gear-up-api.csproj|solutionrelative:gear-up-api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AE52EA3B-3CB7-4912-BE17-19D8F70507B2}|gear-up-api\\gear-up-api.csproj|c:\\users\\user\\webstormprojects\\finap gearup\\gear-up-api\\gear-up-api\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE52EA3B-3CB7-4912-BE17-19D8F70507B2}|gear-up-api\\gear-up-api.csproj|solutionrelative:gear-up-api\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE52EA3B-3CB7-4912-BE17-19D8F70507B2}|gear-up-api\\gear-up-api.csproj|c:\\users\\user\\webstormprojects\\finap gearup\\gear-up-api\\gear-up-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE52EA3B-3CB7-4912-BE17-19D8F70507B2}|gear-up-api\\gear-up-api.csproj|solutionrelative:gear-up-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE52EA3B-3CB7-4912-BE17-19D8F70507B2}|gear-up-api\\gear-up-api.csproj|c:\\users\\user\\webstormprojects\\finap gearup\\gear-up-api\\gear-up-api\\context\\gearupcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE52EA3B-3CB7-4912-BE17-19D8F70507B2}|gear-up-api\\gear-up-api.csproj|solutionrelative:gear-up-api\\context\\gearupcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,110 +54,97 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\User\\WebstormProjects\\Finap GearUp\\gear-up-api\\gear-up-api\\Repositories\\UserRepository.cs",
-              "RelativeDocumentMoniker": "gear-up-api\\Repositories\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\User\\WebstormProjects\\Finap GearUp\\gear-up-api\\gear-up-api\\Repositories\\UserRepository.cs",
-              "RelativeToolTip": "gear-up-api\\Repositories\\UserRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "DocumentIndex": 2,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\WebstormProjects\\Finap GearUp\\gear-up-api\\gear-up-api\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "gear-up-api\\Repositories\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\User\\WebstormProjects\\Finap GearUp\\gear-up-api\\gear-up-api\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "gear-up-api\\Repositories\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T10:01:20.878Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\User\\WebstormProjects\\Finap GearUp\\gear-up-api\\gear-up-api\\Repositories\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "gear-up-api\\Repositories\\IUserRepository.cs",
-              "ToolTip": "C:\\Users\\User\\WebstormProjects\\Finap GearUp\\gear-up-api\\gear-up-api\\Repositories\\IUserRepository.cs",
-              "RelativeToolTip": "gear-up-api\\Repositories\\IUserRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T10:00:36.574Z",
+              "WhenOpened": "2024-06-14T11:29:08.211Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\WebstormProjects\\Finap GearUp\\gear-up-api\\gear-up-api\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "gear-up-api\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\User\\WebstormProjects\\Finap GearUp\\gear-up-api\\gear-up-api\\Controllers\\UserController.cs",
-              "RelativeToolTip": "gear-up-api\\Controllers\\UserController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAArAAAA",
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\WebstormProjects\\Finap GearUp\\gear-up-api\\gear-up-api\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "gear-up-api\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\User\\WebstormProjects\\Finap GearUp\\gear-up-api\\gear-up-api\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "gear-up-api\\Repositories\\ProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T09:53:25.052Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\User\\WebstormProjects\\Finap GearUp\\gear-up-api\\gear-up-api\\Models\\User.cs",
-              "RelativeDocumentMoniker": "gear-up-api\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\User\\WebstormProjects\\Finap GearUp\\gear-up-api\\gear-up-api\\Models\\User.cs",
-              "RelativeToolTip": "gear-up-api\\Models\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T08:24:04.022Z",
+              "WhenOpened": "2024-06-14T11:29:26.518Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "CartItem.cs",
-              "DocumentMoniker": "C:\\Users\\User\\WebstormProjects\\Finap GearUp\\gear-up-api\\gear-up-api\\Models\\CartItem.cs",
-              "RelativeDocumentMoniker": "gear-up-api\\Models\\CartItem.cs",
-              "ToolTip": "C:\\Users\\User\\WebstormProjects\\Finap GearUp\\gear-up-api\\gear-up-api\\Models\\CartItem.cs",
-              "RelativeToolTip": "gear-up-api\\Models\\CartItem.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAsAAAA",
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\WebstormProjects\\Finap GearUp\\gear-up-api\\gear-up-api\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "gear-up-api\\Services\\IProductService.cs",
+              "ToolTip": "C:\\Users\\User\\WebstormProjects\\Finap GearUp\\gear-up-api\\gear-up-api\\Services\\IProductService.cs",
+              "RelativeToolTip": "gear-up-api\\Services\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T08:52:07.224Z",
+              "WhenOpened": "2024-06-14T11:25:51.578Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Cart.cs",
-              "DocumentMoniker": "C:\\Users\\User\\WebstormProjects\\Finap GearUp\\gear-up-api\\gear-up-api\\Models\\Cart.cs",
-              "RelativeDocumentMoniker": "gear-up-api\\Models\\Cart.cs",
-              "ToolTip": "C:\\Users\\User\\WebstormProjects\\Finap GearUp\\gear-up-api\\gear-up-api\\Models\\Cart.cs",
-              "RelativeToolTip": "gear-up-api\\Models\\Cart.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAmAAAA",
+              "DocumentIndex": 4,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\WebstormProjects\\Finap GearUp\\gear-up-api\\gear-up-api\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "gear-up-api\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\User\\WebstormProjects\\Finap GearUp\\gear-up-api\\gear-up-api\\Services\\ProductService.cs",
+              "RelativeToolTip": "gear-up-api\\Services\\ProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T08:23:14.361Z",
+              "WhenOpened": "2024-06-14T11:26:06.966Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\User\\WebstormProjects\\Finap GearUp\\gear-up-api\\gear-up-api\\appsettings.json",
-              "RelativeDocumentMoniker": "gear-up-api\\appsettings.json",
-              "ToolTip": "C:\\Users\\User\\WebstormProjects\\Finap GearUp\\gear-up-api\\gear-up-api\\appsettings.json",
-              "RelativeToolTip": "gear-up-api\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-14T09:03:06.537Z",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\WebstormProjects\\Finap GearUp\\gear-up-api\\gear-up-api\\Program.cs",
+              "RelativeDocumentMoniker": "gear-up-api\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\WebstormProjects\\Finap GearUp\\gear-up-api\\gear-up-api\\Program.cs",
+              "RelativeToolTip": "gear-up-api\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB8AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T08:10:55.403Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "C:\\Users\\User\\WebstormProjects\\Finap GearUp\\gear-up-api\\gear-up-api\\Services\\IUserService.cs",
-              "RelativeDocumentMoniker": "gear-up-api\\Services\\IUserService.cs",
-              "ToolTip": "C:\\Users\\User\\WebstormProjects\\Finap GearUp\\gear-up-api\\gear-up-api\\Services\\IUserService.cs",
-              "RelativeToolTip": "gear-up-api\\Services\\IUserService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAVAAAA",
+              "DocumentIndex": 5,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\WebstormProjects\\Finap GearUp\\gear-up-api\\gear-up-api\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "gear-up-api\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\User\\WebstormProjects\\Finap GearUp\\gear-up-api\\gear-up-api\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "gear-up-api\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T09:56:39.014Z",
+              "WhenOpened": "2024-06-14T11:20:18.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\WebstormProjects\\Finap GearUp\\gear-up-api\\gear-up-api\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "gear-up-api\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\User\\WebstormProjects\\Finap GearUp\\gear-up-api\\gear-up-api\\Controllers\\UserController.cs",
+              "RelativeToolTip": "gear-up-api\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T11:01:06.769Z",
               "EditorCaption": ""
             },
             {
@@ -176,35 +155,35 @@
               "RelativeDocumentMoniker": "gear-up-api\\Services\\UserService.cs",
               "ToolTip": "C:\\Users\\User\\WebstormProjects\\Finap GearUp\\gear-up-api\\gear-up-api\\Services\\UserService.cs",
               "RelativeToolTip": "gear-up-api\\Services\\UserService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T09:58:08.725Z",
+              "WhenOpened": "2024-06-14T11:06:33.962Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "GearUpContext.cs",
-              "DocumentMoniker": "C:\\Users\\User\\WebstormProjects\\Finap GearUp\\gear-up-api\\gear-up-api\\Context\\GearUpContext.cs",
-              "RelativeDocumentMoniker": "gear-up-api\\Context\\GearUpContext.cs",
-              "ToolTip": "C:\\Users\\User\\WebstormProjects\\Finap GearUp\\gear-up-api\\gear-up-api\\Context\\GearUpContext.cs",
-              "RelativeToolTip": "gear-up-api\\Context\\GearUpContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAwAAAA",
+              "DocumentIndex": 7,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\WebstormProjects\\Finap GearUp\\gear-up-api\\gear-up-api\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "gear-up-api\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\User\\WebstormProjects\\Finap GearUp\\gear-up-api\\gear-up-api\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "gear-up-api\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T08:56:21.913Z",
+              "WhenOpened": "2024-06-14T11:06:50.494Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\WebstormProjects\\Finap GearUp\\gear-up-api\\gear-up-api\\Program.cs",
-              "RelativeDocumentMoniker": "gear-up-api\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\WebstormProjects\\Finap GearUp\\gear-up-api\\gear-up-api\\Program.cs",
-              "RelativeToolTip": "gear-up-api\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAADQAAAAhAAAA",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\User\\WebstormProjects\\Finap GearUp\\gear-up-api\\gear-up-api\\Models\\User.cs",
+              "RelativeDocumentMoniker": "gear-up-api\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\User\\WebstormProjects\\Finap GearUp\\gear-up-api\\gear-up-api\\Models\\User.cs",
+              "RelativeToolTip": "gear-up-api\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T08:10:55.403Z",
+              "WhenOpened": "2024-06-14T08:24:04.022Z",
               "EditorCaption": ""
             },
             {
@@ -218,19 +197,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-14T08:23:24.785Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\User\\WebstormProjects\\Finap GearUp\\gear-up-api\\gear-up-api\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "gear-up-api\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\User\\WebstormProjects\\Finap GearUp\\gear-up-api\\gear-up-api\\Models\\Product.cs",
-              "RelativeToolTip": "gear-up-api\\Models\\Product.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T08:22:57.717Z",
               "EditorCaption": ""
             }
           ]

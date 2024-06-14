@@ -134,3 +134,7 @@ C:\Users\User\WebstormProjects\Finap GearUp\gear-up-api\gear-up-api\bin\Debug\ne
 C:\Users\User\WebstormProjects\Finap GearUp\gear-up-api\gear-up-api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
 C:\Users\User\WebstormProjects\Finap GearUp\gear-up-api\gear-up-api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\User\WebstormProjects\Finap GearUp\gear-up-api\gear-up-api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\User\WebstormProjects\Finap GearUp\gear-up-api\gear-up-api\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\User\WebstormProjects\Finap GearUp\gear-up-api\gear-up-api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\User\WebstormProjects\Finap GearUp\gear-up-api\gear-up-api\bin\Debug\net8.0\BouncyCastle.Crypto.dll
+C:\Users\User\WebstormProjects\Finap GearUp\gear-up-api\gear-up-api\obj\Debug\net8.0\gear-up-api.sourcelink.json

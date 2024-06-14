@@ -46,6 +46,7 @@ namespace gear_up_api.Controllers
 
             var user = new User
             {
+                Name = model.Name,
                 Username = model.Username,
                 Email = model.Email
             };
@@ -58,6 +59,7 @@ namespace gear_up_api.Controllers
                 var response = new
                 {
                     Id = user.Id,
+                    Name = user.Name,
                     Username = user.Username,
                     Email = user.Email,
                     Token = token
@@ -112,6 +114,10 @@ namespace gear_up_api.Controllers
 
     public class RegisterModel
     {
+        [Required]
+        [StringLength(100)]
+        public string Name { get; set; }
+
         [Required]
         [StringLength(50, MinimumLength = 3)]
         public string Username { get; set; }
