@@ -4,6 +4,7 @@ using System.Threading.Tasks;
 using gear_up_api.Models;
 using gear_up_api.Services;
 using gear_up_api.DTOs;
+using System.ComponentModel.DataAnnotations;
 
 namespace gear_up_api.Controllers
 {
@@ -162,5 +163,6 @@ namespace gear_up_api.DTOs
         public int ProductId { get; set; }
         public int Quantity { get; set; }
     }
+
 }
 

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("gear-up-api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+22e98215e335015d04222a5381935a6ea26c72de")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9cf2c20355e1f6fb97d01130cb39da294edd8861")]
 [assembly: System.Reflection.AssemblyProductAttribute("gear-up-api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("gear-up-api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

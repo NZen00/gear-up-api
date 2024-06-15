@@ -138,3 +138,4 @@ C:\Users\User\WebstormProjects\Finap GearUp\gear-up-api\gear-up-api\bin\Debug\ne
 C:\Users\User\WebstormProjects\Finap GearUp\gear-up-api\gear-up-api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\User\WebstormProjects\Finap GearUp\gear-up-api\gear-up-api\bin\Debug\net8.0\BouncyCastle.Crypto.dll
 C:\Users\User\WebstormProjects\Finap GearUp\gear-up-api\gear-up-api\obj\Debug\net8.0\gear-up-api.sourcelink.json
+C:\Users\User\WebstormProjects\Finap GearUp\gear-up-api\gear-up-api\bin\Debug\net8.0\AutoMapper.dll
